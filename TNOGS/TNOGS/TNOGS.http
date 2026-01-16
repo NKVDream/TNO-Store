@@ -1,0 +1,6 @@
+@TNOGS_HostAddress = http://localhost:5010
+
+GET {{TNOGS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
