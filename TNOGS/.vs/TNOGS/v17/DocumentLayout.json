@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\Code related\\TNO-Store\\TNOGS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3257BEFB-12B3-4EF2-B4F4-B1DABC50CED1}|TNOGS\\TNOGS.csproj|d:\\code related\\tno-store\\tnogs\\tnogs\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3257BEFB-12B3-4EF2-B4F4-B1DABC50CED1}|TNOGS\\TNOGS.csproj|solutionrelative:tnogs\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3257BEFB-12B3-4EF2-B4F4-B1DABC50CED1}|TNOGS\\TNOGS.csproj|d:\\code related\\tno-store\\tnogs\\tnogs\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3257BEFB-12B3-4EF2-B4F4-B1DABC50CED1}|TNOGS\\TNOGS.csproj|solutionrelative:tnogs\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3257BEFB-12B3-4EF2-B4F4-B1DABC50CED1}|TNOGS\\TNOGS.csproj|d:\\code related\\tno-store\\tnogs\\tnogs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3257BEFB-12B3-4EF2-B4F4-B1DABC50CED1}|TNOGS\\TNOGS.csproj|solutionrelative:tnogs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3257BEFB-12B3-4EF2-B4F4-B1DABC50CED1}|TNOGS\\TNOGS.csproj|d:\\code related\\tno-store\\tnogs\\tnogs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3257BEFB-12B3-4EF2-B4F4-B1DABC50CED1}|TNOGS\\TNOGS.csproj|solutionrelative:tnogs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3257BEFB-12B3-4EF2-B4F4-B1DABC50CED1}|TNOGS\\TNOGS.csproj|d:\\code related\\tno-store\\tnogs\\tnogs\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3257BEFB-12B3-4EF2-B4F4-B1DABC50CED1}|TNOGS\\TNOGS.csproj|solutionrelative:tnogs\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3257BEFB-12B3-4EF2-B4F4-B1DABC50CED1}|TNOGS\\TNOGS.csproj|d:\\code related\\tno-store\\tnogs\\tnogs\\models\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3257BEFB-12B3-4EF2-B4F4-B1DABC50CED1}|TNOGS\\TNOGS.csproj|solutionrelative:tnogs\\models\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3257BEFB-12B3-4EF2-B4F4-B1DABC50CED1}|TNOGS\\TNOGS.csproj|d:\\code related\\tno-store\\tnogs\\tnogs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3257BEFB-12B3-4EF2-B4F4-B1DABC50CED1}|TNOGS\\TNOGS.csproj|solutionrelative:tnogs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Code related\\TNO-Store\\TNOGS\\TNOGS\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TNOGS\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Code related\\TNO-Store\\TNOGS\\TNOGS\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TNOGS\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T10:33:25.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code related\\TNO-Store\\TNOGS\\TNOGS\\Program.cs",
+              "RelativeDocumentMoniker": "TNOGS\\Program.cs",
+              "ToolTip": "D:\\Code related\\TNO-Store\\TNOGS\\TNOGS\\Program.cs",
+              "RelativeToolTip": "TNOGS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T10:23:29.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Code related\\TNO-Store\\TNOGS\\TNOGS\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TNOGS\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Code related\\TNO-Store\\TNOGS\\TNOGS\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TNOGS\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T09:30:43.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "players.cs",
               "DocumentMoniker": "D:\\Code related\\TNO-Store\\TNOGS\\TNOGS\\Models\\players.cs",
               "RelativeDocumentMoniker": "TNOGS\\Models\\players.cs",
@@ -38,12 +89,11 @@
               "RelativeToolTip": "TNOGS\\Models\\players.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T09:17:45.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T09:17:45.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "types.cs",
               "DocumentMoniker": "D:\\Code related\\TNO-Store\\TNOGS\\TNOGS\\Models\\types.cs",
               "RelativeDocumentMoniker": "TNOGS\\Models\\types.cs",
@@ -51,12 +101,11 @@
               "RelativeToolTip": "TNOGS\\Models\\types.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T08:59:25.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T08:59:25.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "products.cs",
               "DocumentMoniker": "D:\\Code related\\TNO-Store\\TNOGS\\TNOGS\\Models\\products.cs",
               "RelativeDocumentMoniker": "TNOGS\\Models\\products.cs",
