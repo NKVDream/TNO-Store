@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "TNOGS\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\Code related\\TNO-Store\\TNOGS\\TNOGS\\Controllers\\ProductController.cs",
               "RelativeToolTip": "TNOGS\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-06T10:33:25.907Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "TNOGS\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T10:23:29.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T10:23:29.57Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "TNOGS\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T09:30:43.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T09:30:43.338Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "TNOGS\\Models\\products.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T08:41:46.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T08:41:46.006Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "TNOGS\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-16T07:23:14.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T07:23:14.981Z"
             }
           ]
         }
