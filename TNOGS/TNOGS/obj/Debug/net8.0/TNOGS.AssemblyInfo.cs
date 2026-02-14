@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TNOGS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed209753721b4742b492598d9db7195183869eb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc07ab8a3be5c7f41db6c11040d08d1b0c5b8fee")]
 [assembly: System.Reflection.AssemblyProductAttribute("TNOGS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TNOGS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
